@@ -10,7 +10,7 @@ The scope of the system covers two major areas:
 
 1. **Asset Management** – enabling data entry staff to add, edit, and delete inventory items with complete details such as purchase date, condition, and current status. It also supports real-time stock monitoring, usage history tracking, and availability checks, helping prevent shortages, overstocking, or asset loss.
 2. ** Faculty Management** – maintaining a centralized database of internal, external, and contract faculty records. The system allows role-based verification and approval by authorities such as the Principal and Head of Office (HOO), ensuring accountability and reducing the chances of mismanagement.
-3. 
+
 **Key features of the system include: **
 --> Secure login with role-based access to differentiate between administrators, HOO, principal, and data entry staff. 
 --> Centralized storage of faculty and asset data, enabling quick and efficient retrieval. 
